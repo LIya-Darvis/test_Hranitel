@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HranitelPRO_webservice.props" />
+</Project>
